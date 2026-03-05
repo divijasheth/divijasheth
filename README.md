@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Divija 👋
 
+I'm a third-year Computer Science student interested in artificial intelligence, machine learning, and data science.
+
+## Currently Learning
+- Machine Learning
+- AI Concepts
+- Data Analysis with Python
+
+## Projects
+- AI Skincare Tracking App
+- Library Management System
+- Canteen Management System
+- Machine Learning Experiments
 <!--
 **divijasheth/divijasheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
